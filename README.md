@@ -8,4 +8,4 @@ Starter kit for new sites. Includes:
 * Border-box
 * Basic layout, using inline-block
 
-To use, **download** the zip file.
+To use, **download** the [zip file](https://github.com/ctd-html-2014/scaffold/archive/master.zip).
