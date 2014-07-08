@@ -4,6 +4,7 @@ Scaffold
 Starter kit for new sites. Includes:
 
 * Basic HTML structure
+* Sass
 * Reset CSS
 * Border-box
 * Basic layout, using inline-block
