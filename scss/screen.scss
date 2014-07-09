@@ -3,6 +3,7 @@
 
 
 
+
 body {
   font-family: 'Lobster', cursive;
   font-size: 16px;
@@ -87,8 +88,8 @@ img {
 }
 
 .person {
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
   border-radius: 50%;
   margin: 0 auto;
 }
@@ -147,3 +148,11 @@ background-color: green;
   padding-left: 30px;
   margin-top: 0;
 } 
+#border{
+  border: 1px solid green;
+}
+.person{
+  margin-bottom: 100px;
+  margin-right: 0;
+
+}
