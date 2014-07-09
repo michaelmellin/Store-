@@ -81,13 +81,10 @@ a {
   text-decoration: none;
   color: black;
   opacity: .6;
-  transition: all 1s linear,
-              color 1s linear;
 }
 
 a:hover {
   opacity: 1;
-  color: green;
 }
 
 .headline {
@@ -121,7 +118,6 @@ a:hover {
 .icon {
   opacity: .6;
   display: inline;
-  transition: all 1s linear;
 }
 
 .icon:hover {
