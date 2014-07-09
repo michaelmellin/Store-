@@ -2,23 +2,65 @@
 
 
 body {
-  font-family: Helvetica;
-  font-size: 16px;
-  line-height: 21px;
+  font-family: 'Lobster', cursive;
  }
 
-a {
-  color: #800000;
-}
+header {
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  background: linear-gradient(lightblue, peachpuff);
+  border: 3px solid black;
 
-p {
-  margin-bottom: 1.1em;
 }
-
-h1 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: .8em;
+.cakes{
+  padding-left: 10px;
+  font-size: 30px;
+  font-family: 'Lobster', cursive;
 }
+.everything{
+  padding-top: 25px;
+}
+a{
+  text-decoration: none;
+  color: black;
+  opacity: .6;
+}
+a:hover{
+  opacity: 1;
+}
+.headline{
+  height: 600px;
+  width: 100%;
+  background-image: url('cakeshop.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  line-height: 20px;
 
+}
+.text1{
+  border: 5px solid black;
+  display: inline-block;
+  height: 50%;
+  width: 30%;
+  text-align: center;
+  margin: 75px 0 0 20px;
+  background: rgba(210,180,140, .6);
+  padding-left: 10px;
+  padding-right: 10px;
+  max-width: 200px;
+}
+.link{
+  padding-left: 10px;
+  padding-right: 20px;
+}
+.icon{
+  opacity: .6;
+  display: inline;
+}
+.icon:hover{
+  opacity: 1;
+  cursor: pointer;
+}
 
